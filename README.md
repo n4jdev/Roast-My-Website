@@ -14,7 +14,7 @@ RoastMyWebsite is a Streamlit web application that humorously critiques your web
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/RoastMyWebsite.git
+    git clone https://github.com/n4jdev/RoastMyWebsite.git
     cd RoastMyWebsite
     ```
 
