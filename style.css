@@ -1,0 +1,51 @@
+.main {
+    background-color: #ffffff;
+    font-family: 'Caveat', cursive;
+    text-align: center;
+}
+.heading {
+    text-align: center;
+    margin: 0;
+}
+.input-box {
+    font-size: 20px;
+    padding: 10px;
+    margin: 20px auto;
+    width: 50%;
+    font-family: 'Caveat', cursive;
+}
+.button {
+    font-size: 20px;
+    padding: 10px;
+    margin: 20px auto;
+    width: 50%;
+    background-color: #ff5252;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Caveat', cursive;
+}
+.button:hover {
+    background-color: #e04848;
+}
+.spicy-level select {
+    font-size: 20px;
+    padding: 10px;
+    width: 50%;
+    margin: 20px auto;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+}
+.floating-text {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #ffffff;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 18px;
+    color: #ff5252;
+    font-family: 'Caveat', cursive;
+}
